@@ -75,12 +75,17 @@ Aunque actualmente tengo un proyecto principal publicado (Plataforma CEIADev), c
 - Especialización en React Native (Coursera)
 
 <h2>🌐 Conecta Conmigo</h2>
-[<img align="left" alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
-[<img align="left" alt="GitHub" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg"/>][github]
-[<img align="left" alt="Gmail" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/>][gmail]
 
-[linkedin]: https://www.linkedin.com/in/jose-franklim-fernandez-vallejos-65b821342/  
-[github]: https://github.com/Jhosep2001-taku  
-[gmail]: mailto:josefranklim2001@gmail.com
+<a href="https://www.linkedin.com/in/jose-franklim-fernandez-vallejos-65b821342/" target="_blank">
+  <img align="left" alt="LinkedIn" width="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
+</a>
 
-<br/>
+<a href="https://github.com/Jhosep2001-taku" target="_blank">
+  <img align="left" alt="GitHub" width="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg"/>
+</a>
+
+<a href="mailto:josefranklim2001@gmail.com" target="_blank">
+  <img align="left" alt="Gmail" width="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/>
+</a>
+
+<br/><br/>
